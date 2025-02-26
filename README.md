@@ -16,7 +16,7 @@ I have so far learnt several concepts and programming languages including C, Pyt
 
 <a href="https://www.github.com/ewurapoms" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ewurapoms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/kyekyekuwaa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kyekyekuwaa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/abbenapomaa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
