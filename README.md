@@ -5,7 +5,7 @@ A Software Engineering Enthusiast
 ----------------------------------
 
 I experienced and graduated the ALX Software Engineering program. 
-I have so far learnt several concepts and programming languages including C, Python, SQL, JavaScript, HTML, and CSS. I am focused on building a solid foundation in my learning journey and developing my skills in software development. My personal studies and ALX program involved learning to write code, designing and implementing algorithms, and creating applications and software systems. The peer learning environment allowed for excellent networking and community access to like-minded programming and tech enthusiats. I aim to become a skilled and proficient software engineer who can contribute innovative solutions to complex problems.
+I have so far learnt several concepts and programming languages including C, Python, SQL, JavaScript, HTML, and CSS. I am focused on building a solid foundation in my learning journey and developing my skills in software development. My personal studies and ALX program involved learning to write code, designing and implementing algorithms, and creating applications and software systems. The peer learning environment allowed for excellent networking and community access to like-minded programming and tech enthusiats. I have since taken up mentorship and internship roles to gain further knowledge and skills. I aim to become a skilled and proficient software engineer who can contribute innovative solutions to complex problems.
 
 * 🌍  I'm Ghanaian residing in Accra, Ghana
 * 🖥️  Check out my blog at [medium](https://medium.com/@abenapomaa/)
